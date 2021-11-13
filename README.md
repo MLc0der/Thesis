@@ -10,7 +10,9 @@ Finance.
 
 ## Introduction
 
-Through this diploma thesis, we aim to develop Machine Learning algorithms that are able to compute the fair price of financial derivatives such as Options, learning from standard pricing models (Black-Scholes, Levy processes). In addition, by inversing this process, we also develop artificial neural networks (ANN), trained to estimate the implied volatility (IV) for an asset's price.
+Through this diploma thesis, we aim to develop Machine Learning algorithms that are able to compute the fair price of financial derivatives such as Options, learning from standard pricing models (Black-Scholes, Levy processes). In addition, by inversing this process, we also develop artificial neural networks (ANN), trained to estimate the implied volatility (IV) for an asset's price. 
+
+We develop and compare different network architectures, such as Feedforward and radial basis function networks and different models, such as Black-Scholes and Normal inverse Gaussian (NIG) models.
 
 ## Data
 To apply neural network regression techniques, it is necessary to provide
